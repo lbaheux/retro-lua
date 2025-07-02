@@ -1,0 +1,7 @@
+
+*.love
+*.exe
+*.app
+.env/
+.venv/
+.vscode/
